@@ -1,0 +1,33 @@
+	Vennu Nagaraju
+Hyderabad, Telangana | +91 6300093120 | vennunagaraj12@gmail.com
+LinkedIn: Link  | GitHub: Link
+Career Objective
+Motivated and detail-oriented B.Tech Computer Science student with hands-on exposure to software development, machine learning, data analytics, and emerging AI technologies. Passionate about solving real-world problems through technology and eager to contribute to Software Engineering, AI/ML, or Data-related roles while continuously learning and improving technical skills.
+Education
+Bachelor of Technology (B. Tech) – Computer Science & Technology
+Sreenidhi Institute of Science and Technology | 2022 – 2026 | CGPA: 6.18
+Technical Skills
+•	Programming Languages: C, C++, Java, Python
+•	Libraries & Frameworks: Pandas, NumPy, Scikit-learn, Django
+•	Web Technologies: HTML, CSS, JavaScript
+•	Tools & Platforms: Jupyter Notebook, Git
+•	Operating Systems: Windows, Linux, Ubuntu
+Projects
+     Audio to Sign Language Using Django framework:
+•	Developed a Django-based application to convert speech into text and represent communication through sign language outputs.
+•	Implemented speech recognition concepts for audio processing and text conversion.
+
+    Data Deduplication for Storage Efficiency:
+•	Developed a Python-based system to identify and remove duplicate data for storage optimization.
+•	Implemented file-level and block-level deduplication using MD5 and SHA hashing techniques.
+Internship Experience
+AI-ML Virtual Internship – EduSkills & AICTE (Supported by Google for Developers) | Remote | Oct 2024 – Dec 2024 - View Image
+•	Completed a 10-week internship focused on Artificial Intelligence and Machine Learning concepts.
+•	Gained understanding of machine learning fundamentals, preprocessing, and model concepts.
+•	Successfully completed program requirements and earned Grade B.
+Certifications
+•	Ethical Hacker – Cisco Networking Academy (May 2026) - View Image
+•	Introduction to Data Science – Cisco Networking Academy (May 2026) - View Image
+•	Ask Questions to Make Data-Driven Decisions – Google / Coursera (May 2026) - View Image
+•	Develop Generative AI Applications: Get Started – IBM / Coursera (May 2026) - View Image
+•	Android Developer Virtual Internship – AICTE EduSkills (Sep 2024) - View Image
