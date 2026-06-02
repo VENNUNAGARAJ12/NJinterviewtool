@@ -1,3 +1,4 @@
 .env
 __pycache__/
 *.pyc
+vosk-model-small-en-us-0.15/
